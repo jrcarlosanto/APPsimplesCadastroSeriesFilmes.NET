@@ -1,0 +1,13 @@
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+E:\DigitalInnovation\C#\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+E:\DigitalInnovation\C#\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache

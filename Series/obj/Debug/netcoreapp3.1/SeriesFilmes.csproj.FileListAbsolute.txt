@@ -1,0 +1,13 @@
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.exe
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.deps.json
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.runtimeconfig.json
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.runtimeconfig.dev.json
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.dll
+E:\DigitalInnovation\C#\Series e Filmes\Series\bin\Debug\netcoreapp3.1\SeriesFilmes.pdb
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.AssemblyInfoInputs.cache
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.AssemblyInfo.cs
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.csproj.CoreCompileInputs.cache
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.dll
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.pdb
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.genruntimeconfig.cache
+E:\DigitalInnovation\C#\Series e Filmes\Series\obj\Debug\netcoreapp3.1\SeriesFilmes.csprojAssemblyReference.cache
